@@ -1,2 +1,1 @@
-# awesome
-cum
+# Project 0 CS 2400
